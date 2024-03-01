@@ -7,6 +7,5 @@ Use googletrans service to automatically translate subtitles of videos into anot
 In order to make it work, you are supposed to install two necessary libraries
 
 ```bash
-pip install googletrans
-pip install tqdm
+pip install googletrans, tqdm
 ```
